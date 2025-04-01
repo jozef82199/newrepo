@@ -8,7 +8,7 @@ options = webdriver.FirefoxOptions()
 driver = webdriver.Firefox(options=options)
 
 
-# Open Google
+# Open Google yea
 driver.get('https://clore.ai/marketplace#')
 
 # Find search box and enter query
